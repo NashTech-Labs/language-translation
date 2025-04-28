@@ -1,0 +1,15 @@
+{
+  "APP": {
+    "TITLE": "Angular i18n Demo"
+  },
+  "CARD": {
+    "TITLE": "Welcome to the Translation Demo",
+    "GREETING": "Hello, world!",
+    "WELCOME": "This is a demonstration of Angular's internationalization capabilities.",
+    "DESCRIPTION": "Switch between English and French using the buttons in the header. All text on this card will be translated according to the selected language.",
+    "INFO_TITLE": "Key Features:",
+    "INFO_ITEM1": "Simple language switching between English and French",
+    "INFO_ITEM2": "Translations are loaded from separate JSON files",
+    "INFO_ITEM3": "Uses Angular's translate pipe for seamless text replacement"
+  }
+}
